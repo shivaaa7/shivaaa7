@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### I am Shivam kumar
   I'm currently studying at National Institute of Technology Agartala.
-💡 Some technologies I enjoy working with JavaScript, Learning reactJS, and mongoDB , making projects using javascript 
+💡 Some technologies I enjoy working with HTML ,CSS and  JavaScript.
+ Learning reactJS, and mongoDB &&  making projects using javascript 
 🌳  Love to be parts of Developer Communities and am the community founder of DECOY (STUDENTS SOCIETY FOR DEVELOPMENT CONSCIOUSNESS).
 
 
