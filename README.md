@@ -1,5 +1,13 @@
 ### Hi there 👋
-I am Shivam kumar
+### I am Shivam kumar
+ ###  I'm currently studying at National Institute of Technology Agartala.
+### 💡 Some technologies I enjoy working with JavaScript, Learning reactJS, and mongoDB , making projects using javascript 
+### 🌳  Love to be parts of Developer Communities and am the community founder of DECOY (STUDENTS SOCIETY FOR DEVELOPMENT CONSCIOUSNESS).
+
+
+
+🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.
+👨🏻‍💻  You can shoot me an email at m4n15hb@gmail.com! I'll try to respond as soon as I can.
 <!--
 **shivaaa7/shivaaa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
