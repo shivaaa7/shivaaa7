@@ -3,8 +3,8 @@
   I'm currently studying at National Institute of Technology Agartala.
 💡 Some technologies I enjoy working with HTML ,CSS and  JavaScript.
  Learning reactJS, and mongoDB &&  making projects using javascript 
-🌳  Love to be parts of Developer Communities and am the Lead member of DECOY (STUDENTS SOCIETY FOR DEVELOPMENT CONSCIOUSNESS).
-
+🌳  Love to be parts of Developer Communities and am the Lead and Organising member of DECOY (STUDENTS SOCIETY FOR DEVELOPMENT CONSCIOUSNESS).
+Also SIH 2023 Grand Finalist.
 
 
 
